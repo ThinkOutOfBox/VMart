@@ -1,7 +1,0 @@
-https://github.com/ThinkOutOfBox/VMart.git
-git remote add origin https://github.com/ThinkOutOfBox/VMart.git
-
-git config credential.helper store
-git push https://github.com/ThinkOutOfBox/VMart.git
-
-git commit -m ¨update 2¨
